@@ -1,4 +1,1 @@
-Projeto criado para estudo de python
-
-
-terminado em breve
+Projeto criado para estudo de python com framework Django
